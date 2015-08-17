@@ -17,8 +17,8 @@ Utilizei como base o seguinte projeto, aproveitando sua estrutura:
 
 As instruções para executar o projeto de testes seguem o mesmo esquema daquele:
 
-    git clone git://github.com/jorgediz/exercicio-teste-ecommerce.git
-    cd exercicio-teste-ecommerce   
+    git clone git://github.com/jorgediz/ecommerce-test-exercise.git
+    cd ecommerce-test-exercise   
     bundle install
     bundle exec cucumber 
 
